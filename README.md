@@ -1,5 +1,5 @@
 # <h1 align="center">Hello! Nice to see you. <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ad/512.webp" type="image/webp"><img src="" alt="🦭" width="42" height="42"></picture>
-<p align="left"><img src="https://pa1.narvii.com/5920/e0a5b793f681962aff4fb6041fd52e961f60b093_hq.gif" width="493"/>        <img src="https://leetcard.jacoblin.cool/Dashaklen?theme=wtf&font=Noto%20Serif%20Ethiopic&ext=heatmap"width="430"/></p> 
+<p align="left"><img src="https://pa1.narvii.com/5920/e0a5b793f681962aff4fb6041fd52e961f60b093_hq.gif" width="483"/>   <img src="https://leetcard.jacoblin.cool/Dashaklen?theme=wtf&font=Noto%20Serif%20Ethiopic&ext=heatmap"width="420"/></p> 
 <h1 align="center" width="90"></h1>
 
 <img align="right" alt="GIF" width="250" src="https://pa1.aminoapps.com/6886/5cc6087370433f1fd06920826c69b93f88c41560r1-500-319_hq.gif"/>
