@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me..."
 
 
-- 	🔴 Hello! My name is Daria and I am a beginner in the field of data science.                                                                 
+- 	🔴 Hello! My name is Daria.                                                                 
 - 	🔴 I am a beginner in the field of data science.
 - 	🔴 I am passionately studying machine learning, data analysis, and statistics
 - 	🔴 I strive to develop and improve my skills in order to contribute to the world of data and technology.
